@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://ssolooo.github.io//</id>
   <title>SSolooo</title>
   <subtitle>Explore captivating cybersecurity write-ups, CTF solutions, and insights into the world of ethical hacking, all wrapped in a minimal blog.</subtitle>
-  <updated>2025-01-29T01:21:56+02:00</updated>
+  <updated>2025-01-29T01:31:46+02:00</updated>
   <author>
     <name>Stefan S.</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://ssolooo.github.io//</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://ssolooo.github.io//feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="https://ssolooo.github.io//"/>
   <generator uri="https://jekyllrb.com/" version="4.4.0">Jekyll</generator>
   <rights> © 2025 Stefan S. </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
